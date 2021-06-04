@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nazneen 
--           (s.jpg)
+-      [image](s.jpg)
 - 👀 I’m interested in Research, Design , Development & Coding in cross technology like Java, React, AWS, Azure
 - 🌱 I’m currently learning React & Cloud 
 - 💞️ I’m looking to collaborate on Front End Web Apps / Research in Cloud
