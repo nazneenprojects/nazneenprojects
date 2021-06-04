@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nazneen 
-- 👀 I’m interested in Research, Design , Developement & Coding in cross technology like Java, React, AWS, Azure
+- 👀 I’m interested in Research, Design , Development & Coding in cross technology like Java, React, AWS, Azure
 - 🌱 I’m currently learning React & Cloud 
 - 💞️ I’m looking to collaborate on Front End Web Apps / Research in Cloud
 - 📫 How to reach me - https://www.linkedin.com/in/nazneen-mulani-05004012a/
