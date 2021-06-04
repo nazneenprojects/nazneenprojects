@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Front End Web Apps / Research in Cloud
 - 📫 How to reach me - https://www.linkedin.com/in/nazneen-mulani-05004012a/
 
+![Image description which will be the alt tag](img/image.png)
 
 nazneenprojects/nazneenprojects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
