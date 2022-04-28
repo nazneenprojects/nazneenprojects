@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on Front End Web Apps / Research in Cloud
 - 📫 How to reach me - https://www.linkedin.com/in/nazneen-mulani-05004012a/
 
-![ClipWindowsGIF](https://user-images.githubusercontent.com/50543241/165708340-7401d8c4-0252-4caf-9791-41a780b51fde.gif) ![CodeCodingGIF](https://user-images.githubusercontent.com/50543241/165710681-f98751fa-dd14-4489-a84f-19eba9b8bbd1.gif)
+![ClipWindowsGIF](https://user-images.githubusercontent.com/50543241/165708340-7401d8c4-0252-4caf-9791-41a780b51fde.gif) 
+![ArrowPijlGIF](https://user-images.githubusercontent.com/50543241/165710990-6a10d068-f46b-4cf5-b0b7-56a3dca801cc.gif)
 
 
 
