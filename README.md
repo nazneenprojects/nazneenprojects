@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nazneen 
 - 👀 I’m interested in Research, Design, Development 
-- 🌱 I’m currently experienced in backend development 
+- 🌱 I’m currently experienced in Backend Development (Python, Java)
 - ✨ I’m looking to collaborate on the following projects:
-  * Implementing Backend apps with Python, Java, SpringBoot 
+  * Implementing Backend apps with Python
   * Basic Website designing using WordPress or Jekyll 
   * Writing Tech Content
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nazneen-mulani-05004012a/)
