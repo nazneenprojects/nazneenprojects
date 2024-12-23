@@ -5,7 +5,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hello
 
 Hi, I’m Nazneen Mulani – a passionate software engineer and tech enthusiast with over 8 years of experience building robust backend applications that drive business success in the automotive, media, and IT services industries 🚀.
-I have a strong interest in Research, Design, and Development and enjoy creating innovative solutions to complex problems. Beyond coding, I love writing tech content and exploring emerging technologies to stay at the forefront of innovation.
+I hold a Master of Technology (M.Tech) in Computer Science, which has further strengthened my expertise in Research, Design, and Development. I enjoy creating innovative solutions to complex problems, writing tech content, and exploring emerging technologies to stay at the forefront of innovation.
 
 ## Repos
 * [URBO - Sustainability tool for Urban Development ](https://github.com/nazneenprojects/urbo?tab=readme-ov-file)
