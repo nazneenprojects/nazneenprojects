@@ -9,6 +9,7 @@ I hold a Master of Technology (M.Tech) in Computer Science, which has further st
 
 ## Repos
 * [URBO - Sustainability tool for Urban Development ](https://github.com/nazneenprojects/urbo?tab=readme-ov-file)
+* [Async NewsAPI](https://github.com/nazneenprojects/news_api_rate_limiting)
 
 
 ## Tech writing
