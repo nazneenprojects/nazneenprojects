@@ -13,7 +13,7 @@ I hold a Master of Technology (M.Tech) in Computer Science, which has further st
 
 
 ## Tech writing
-* Tech Notes - https://nazneenprojects.github.io/techcrafting-with-keying/
+* Tech Notes - https://nazneenprojects.github.io/techcrafting-with-keying/  ,  https://dev.to/nazneen_mulani_0770953dc6
 * Research Paper - [Variant of COBWEB Clustering for Privacy Preservation in Cloud DB Querying](https://www.sciencedirect.com/science/article/pii/S1877050915005359)
 * Research Paper - [Enhancing Privacy Preservation In Cloud Database Querying, Comparative Analysis By Cobweb & KMeans](https://www.ripublication.com/Volume/ijaerv10n12.htm)
 
